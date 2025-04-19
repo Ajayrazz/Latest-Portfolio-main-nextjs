@@ -23,7 +23,7 @@ const Hero = () => {
             </h2>
             <TextGenerateEffect 
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Turning ideas into intuitive, human-centered experiences"
             />
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
                 Hi, I&apos;m Ajay Razz, a Software Developer based in India.

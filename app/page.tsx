@@ -18,7 +18,7 @@ export default function Home() {
       <Hero />
       <Grid />
       <RecentProjects />
-      <Articles/>
+      {/* <Articles/>   update it later */}
       {/* <Clients /> */}
       <Experience />
       <CodingProfiles/>
